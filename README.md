@@ -7,7 +7,9 @@ A web application built using **Java Servlets** and **JSP** that provides user *
 ## **Features**
 - **Registration Page** – New users can register.  
 - **Login Page** – User can log in to their account.  
-- **Profile Page** – Once user logged in user can able to see his/her profile.  
+- **Profile Page** – Once user logged in user can able to see their profile.
+- **Delete Page** – User can delete their account.  
+- **logout Page** – User can log out to their account..
 
 ---
 ## **Tech Stack**
@@ -19,7 +21,6 @@ A web application built using **Java Servlets** and **JSP** that provides user *
   - JSP  
 - **Server:** Apache Tomcat
 
----
 ---
 
 ## **Setup and Installation**
