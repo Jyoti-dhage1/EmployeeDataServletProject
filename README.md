@@ -25,4 +25,4 @@ A web application built using **Java Servlets** and **JSP** that provides user *
 ## **Setup and Installation**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aditinrw/User-Management-System.git
+   git clone https://github.com/Jyoti-dhage1/EmployeeDataServletProject.git
